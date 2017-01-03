@@ -1,6 +1,6 @@
 # Quadratic Equations Solver
 
-[TODO. There will be project description]
+To run tests with commit, put file pre-commit into .git/hooks/
 
 # Project Goals
 
